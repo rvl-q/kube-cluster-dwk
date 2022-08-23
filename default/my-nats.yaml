@@ -13,5 +13,5 @@ spec:
         kind: HelmRepository
         name: nats
       version: 0.17.5
-  interval: 1m0s
+  interval: 10m0s
 
