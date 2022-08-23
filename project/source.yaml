@@ -5,6 +5,6 @@ metadata:
   namespace: project
 spec:
   interval: 1m
-  url: https://github.com/rvl-q/KuberParts.git
+  url: https://github.com/rvl-q/KuberParts
   ref:
     branch: part4
