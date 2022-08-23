@@ -7,4 +7,4 @@ spec:
   interval: 1m
   url: https://github.com/rvl-q/KuberParts
   ref:
-    branch: main
+    branch: part4
